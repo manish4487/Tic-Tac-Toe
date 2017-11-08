@@ -8,3 +8,5 @@ Game Project using JavaScript, CSS, Bootstrap (3.3.7) and HTML
 
 IDE: Visual Studio 2015
 Browser: Chrome
+
+![game 2](https://user-images.githubusercontent.com/25961531/32524889-7d48a4ce-c3e7-11e7-935f-d5e4523f82ca.jpg)
